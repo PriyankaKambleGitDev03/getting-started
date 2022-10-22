@@ -1,1 +1,3 @@
-Hi this is my first devops learning session
+Hi, This is my first devops learning session
+
+Adding a new line
